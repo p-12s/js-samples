@@ -1,7 +1,7 @@
 ## 1
 https://nodejs.org
 
-## 2 - NVM (лучший)
+## 2 - nvm (лучший)
 
 **Скачиваем и устанавливаем:**
 * [для Linux и Mac OS](https://github.com/creationix/nvm)
