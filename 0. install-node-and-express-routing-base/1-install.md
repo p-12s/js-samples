@@ -1,13 +1,13 @@
-
-## 1 способ ##
+## 1
 https://nodejs.org
 
-## 2 способ - Node Version Manager (лучший) ##
-Скачиваем и устанавливаем:
+## 2 - NVM (лучший)
+
+**Скачиваем и устанавливаем:**
 1) [для Linux и Mac OS](https://github.com/creationix/nvm)
 2) [для Windows](https://github.com/coreybutler/nvm-windows)
 
-### Использование: ###
+**Использование:**
 1. nvm -v
 2. nvm list
 3. nvm install 11.10.0
