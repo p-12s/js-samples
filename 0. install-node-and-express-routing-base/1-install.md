@@ -1,17 +1,16 @@
 
-## Первый способ установки Node.js ##
-Скачиваем с сайта https://nodejs.org и устанавливаем
+## 1 способ ##
+https://nodejs.org
 
-## Второй способ - NVM (Node Version Manager) ##
+## 2 способ - Node Version Manager (лучший) ##
 Скачиваем и устанавливаем:
 1) [для Linux и Mac OS](https://github.com/creationix/nvm)
 2) [для Windows](https://github.com/coreybutler/nvm-windows)
 
-### Испольование: ###
-1. nvm install 11.10.0
-2. nvm use 5.9.2
-3. nvm -v
-4. nvm list
+### Использование: ###
+1. nvm -v
+2. nvm list
+3. nvm install 11.10.0
+4. nvm use 10.15.1
 
-Источник:
-https://loftblog.ru/material/1-ustanavlivaem-node-pravilno/
+[Источник](https://loftblog.ru/material/1-ustanavlivaem-node-pravilno/)
