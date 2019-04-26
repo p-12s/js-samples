@@ -1,0 +1,14 @@
+{
+  "name": "4.-refactoring-guru",
+  "version": "1.0.0",
+  "description": "- ## Проверенные решения  \r Вы тратите меньше времени, используя готовые решения, вместо повторного изобретения велосипеда. До некоторых решений вы смогли бы додуматься и сами, но многие могут быть для вас открытием.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
